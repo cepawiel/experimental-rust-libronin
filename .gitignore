@@ -1,0 +1,10 @@
+*.o
+*.map
+*.elf
+*.bin
+*.a
+libronin/include
+libronin/lib
+libronin/arm_sound_code.h
+libronin/zconf.h
+libronin/zlib.h
