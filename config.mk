@@ -4,7 +4,7 @@
 # Created by Jim Ursetto (2004)
 # Initially adapted from Stalin's build script version 0.3.
 # Taken from KOS PR #90 (https://github.com/KallistiOS/KallistiOS/pull/90) 
-# created by https://github.com/gyrovorbisto
+# created by https://github.com/gyrovorbis
 #
 
 # Interesting targets (you can 'make' any of these):
